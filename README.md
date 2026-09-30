@@ -5,7 +5,7 @@ toan@ntoan64
 ----------------------------------------------------------
 Họ tên ............ Nguyễn Thanh Toàn
 Sống tại .......... TP. Hồ Chí Minh, Việt Nam
-Đang học tại ...... HUFLIT (ĐH Ngoại ngữ - Tin học TP.HCM)
+Trường ............ Trường Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh (HUFLIT)
 Hướng đi .......... Fullstack Developer
 Hay dùng .......... React, JavaScript, Node.js, Express, MongoDB
 Triển khai ........ Docker, Cloudflare, Git
