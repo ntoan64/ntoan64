@@ -1,8 +1,25 @@
-## Chào bạn, mình là Nguyễn Thanh Toàn
+## Chào bạn, mình là Toàn
 
-Mình làm web, chủ yếu với React và Node.js, ở TP.HCM. Mình thích làm những thứ có người dùng thật, vì lúc đó mới thấy chỗ nào chưa ổn để sửa.
+```
+toan@ntoan64
+----------------------------------------------------------
+Họ tên ............ Nguyễn Thanh Toàn
+Sống tại .......... TP. Hồ Chí Minh, Việt Nam
+Hướng đi .......... Fullstack Developer
+Hay dùng .......... React, JavaScript, Node.js, Express, MongoDB
+Triển khai ........ Docker, Cloudflare, Git
+Đang học .......... Java, Spring Boot, PostgreSQL
+Đang tìm .......... Thực tập Fullstack / Frontend tại TP.HCM
+----------------------------------------------------------
+Đồ án hiện tại .... AnLiving, web cho thuê phòng (đang hoàn thiện)
+Xem web ........... anlivingspaces.com
+```
 
-Hiện mình đang lo web **[AnLiving](https://anlivingspaces.com)**, web mình làm cho một bên cho thuê phòng ở TP.HCM: khách xem và lọc phòng, chủ nhà quản lý phòng và cư dân, còn người đang thuê thì báo hỏng và theo dõi sửa chữa ngay trên web. Mình làm từ giao diện, backend tới đưa lên Cloudflare, và vẫn đang sửa thêm mỗi ngày.
+Mình thích làm những thứ có người dùng thật, vì lúc đó mới thấy chỗ nào chưa ổn để sửa.
+
+### Đồ án AnLiving
+
+Web mình làm cho một bên cho thuê phòng ở TP.HCM, đang trong quá trình hoàn thiện, bản hiện tại đã chạy tại [anlivingspaces.com](https://anlivingspaces.com). Khách xem và lọc phòng, chủ nhà quản lý phòng và cư dân, còn người đang thuê thì báo hỏng và theo dõi sửa chữa ngay trên web. Mình làm từ giao diện, backend tới đưa lên Cloudflare.
 
 Giới thiệu chi tiết kèm ảnh: [ntoan64/anliving](https://github.com/ntoan64/anliving)
 
@@ -27,17 +44,4 @@ Giới thiệu chi tiết kèm ảnh: [ntoan64/anliving](https://github.com/ntoa
 </tr>
 </table>
 
-### Mình đang dùng
-
-- React, JavaScript, HTML/CSS, Vite
-- Node.js, Express, MongoDB, REST API, JWT
-- Docker, Cloudflare (Workers, Containers, R2), Git
-- Playwright và `node:test` để viết test
-
-Mình đang học thêm Java, Spring Boot và PostgreSQL, và đang tìm chỗ thực tập Fullstack hoặc Frontend ở TP.HCM.
-
 Khi làm mình có dùng Claude, Codex và Google Stitch cho nhanh, còn quyết định làm gì và kiểm tra lại trên web thật là mình tự làm.
-
-### Liên hệ
-
-Web đang chạy: [anlivingspaces.com](https://anlivingspaces.com)
