@@ -25,6 +25,6 @@ Mình thích làm sản phẩm có người dùng thật. Song song với việc
 | [**AnLiving**](https://github.com/ntoan64/anliving) · [anlivingspaces.com](https://anlivingspaces.com) | Web cho thuê phòng, trang quản lý và cổng cư dân báo hỏng, đang chạy thật | React, Node.js, Express, MongoDB, Docker, Cloudflare |
 | [**Watchaholic**](https://github.com/ntoan64/watchaholic) | Quản lý kho và bán hàng (POS) cho cửa hàng đồng hồ, đang dùng thật | Node.js, Express, MongoDB, Vercel |
 | [**Quản lý cửa hàng xe máy**](https://github.com/ntoan64/quan-ly-xe-may) | Đồ án môn học: web bán xe, giỏ hàng, đặt hàng và trang quản trị | C#, ASP.NET MVC, Razor, Tailwind CSS, MySQL |
-| **Relic TCG** | Web quản lý sản phẩm, tồn kho, giá, khách hàng và đơn cho shop thẻ bài | MongoDB, Render |
+| [**Relic TCG**](https://github.com/ntoan64/relic-tcg) | Web quản lý sản phẩm, tồn kho, giá, khách hàng và đơn cho shop thẻ bài | MongoDB, Render |
 
-AnLiving đang chạy thật tại [anlivingspaces.com](https://anlivingspaces.com), bạn có thể vào xem trực tiếp. Code của AnLiving và Watchaholic để ở repo riêng vì đang dùng cho kinh doanh thật.
+AnLiving đang chạy thật tại [anlivingspaces.com](https://anlivingspaces.com), bạn có thể vào xem trực tiếp. Code của AnLiving, Watchaholic và Relic TCG để ở repo riêng vì đang dùng cho kinh doanh thật.
