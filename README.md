@@ -16,7 +16,7 @@ Kiểm thử .......... node:test, Playwright, Postman
 Email ............. thanhtoan06042005@gmail.com
 ```
 
-Mình thích làm sản phẩm có người dùng thật. Trước khi học code, mình làm kho, QC và bán hàng, nên phần lớn dự án của mình là phần mềm cho chính những công việc đó, và được sửa dần theo góp ý của người dùng.
+Mình thích làm sản phẩm có người dùng thật. Song song với việc học, mình đi làm kho, QC và bán hàng, nên phần lớn dự án của mình là phần mềm cho chính những công việc đó, và được sửa dần theo góp ý của người dùng.
 
 ### Dự án
 
@@ -27,4 +27,4 @@ Mình thích làm sản phẩm có người dùng thật. Trước khi học cod
 | [**Quản lý cửa hàng xe máy**](https://github.com/ntoan64/quan-ly-xe-may) | Đồ án môn học: web bán xe, giỏ hàng, đặt hàng và trang quản trị | C#, ASP.NET MVC, Razor, Tailwind CSS, MySQL |
 | **Relic TCG** | Web quản lý sản phẩm, tồn kho, giá, khách hàng và đơn cho shop thẻ bài | MongoDB, Render |
 
-Code của AnLiving và Watchaholic để ở repo riêng vì đang chạy cho kinh doanh thật. Cần xem code thì nhắn mình, mình demo trực tiếp.
+AnLiving đang chạy thật tại [anlivingspaces.com](https://anlivingspaces.com), bạn có thể vào xem trực tiếp. Code của AnLiving và Watchaholic để ở repo riêng vì đang dùng cho kinh doanh thật.
